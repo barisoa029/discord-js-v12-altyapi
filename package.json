@@ -1,0 +1,16 @@
+{
+  "name": "discord-js-v12-altyapi",
+  "version": "1.0.0",
+  "description": "Discord JS v12 ALTYAPI",
+  "author": "bariscode29",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "fs": "^0.0.1-security",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.6",
+    "cheerio": "^1.0.0-rc.5",
+    "firebase-admin": "^9.4.2",
+    "wio.db": "^3.0.9",
+    "discord-logs": "^1.8.2"
+  }
+}
